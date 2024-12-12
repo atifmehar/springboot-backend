@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootBackendApplication {
 
 	public static void main(String[] args) {
-		// this is dummy commit
-		SpringApplication.run(SpringbootBackendApplication.class, args);// ssss
+		// this is dummy commit for develop
+		SpringApplication.run(SpringbootBackendApplication.class, args);
 	}
 
 }
